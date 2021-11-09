@@ -4,9 +4,9 @@
 
 A little about my self :
 
-I am a front end developer 
-Passionate about building web apps
-Exploring Web 3.0 
+- I am a front end developer 
+- Passionate about building web apps
+- Exploring Web 3.0 
 
 
 Skills: JAVASCRIPT HTML CSS
