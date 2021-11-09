@@ -8,14 +8,13 @@ A little about my self :
 - Exploring Web 3.0 
 
 
-Skills: JAVASCRIPT HTML CSS
+## skills
+- Javascript
+- HTML/CSS
 
 - 🔭 I’m currently working on Github Game Off Challenge 
 - 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on Front end projects 
-- 🤔 I’m looking for help with Node JS 
-- 💬 Ask me about Blockchain and Decentralized technologies 
-- 📫 How to reach me: ajazahad343@gmail.com 
+- 📫 Reach me @ ajazahad343@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ajz21)  
