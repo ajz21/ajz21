@@ -1,5 +1,5 @@
 
-![I am a front end Developer](https://github.com/ajz21/ajz21/blob/main/Yellow%20Illustrated%20Deer%20Twitter%20Header.png)
+![I am a front end Developer](https://github.com/ajz21/ajz21/blob/main/Yellow%20Illustrated%20Deer%20Twitter%20Header(1).png)
 
 Self taught Web developer fom India
 
